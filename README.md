@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 9 (Easy: 7, Medium: 2, Hard: 0)
+Solved: 10 (Easy: 8, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Solved: 9 (Easy: 7, Medium: 2, Hard: 0)
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/) | Easy | 2026-10-05 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-05 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-05 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-05 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
+| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->
