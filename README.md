@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 12 (Easy: 10, Medium: 2, Hard: 0)
+Solved: 13 (Easy: 11, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Solved: 12 (Easy: 10, Medium: 2, Hard: 0)
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-07 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-07 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-07 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-07 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-07 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-07 |
+| 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-10-07 |
 <!-- LEETHUB:TABLE:END -->
