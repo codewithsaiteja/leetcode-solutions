@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 17 (Easy: 14, Medium: 3, Hard: 0)
+Solved: 18 (Easy: 14, Medium: 4, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -16,11 +16,12 @@ Solved: 17 (Easy: 14, Medium: 3, Hard: 0)
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-10-21 |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/) | Easy | 2026-10-21 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-10-21 |
+| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-10-21 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-21 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-21 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-21 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-21 |
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-21 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-21 |
-| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-10-21 |
+| 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-10-21 |
 <!-- LEETHUB:TABLE:END -->
