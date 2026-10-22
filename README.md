@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 15, Medium: 6, Hard: 0)
+Solved: 22 (Easy: 16, Medium: 6, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -10,6 +10,7 @@ Solved: 21 (Easy: 15, Medium: 6, Hard: 0)
 | 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-10-22 |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-10-22 |
 | 2521 | [Distinct Prime Factors of Product of Array](2521-distinct-prime-factors-of-product-of-array/) | Medium | 2026-10-22 |
+| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-22 |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 2026-10-22 |
 | 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-10-22 |
 | 744 | [Find Smallest Letter Greater Than Target](744-find-smallest-letter-greater-than-target/) | Easy | 2026-10-22 |
@@ -26,5 +27,5 @@ Solved: 21 (Easy: 15, Medium: 6, Hard: 0)
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-22 |
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-22 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-22 |
-| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-22 |
+| 704 | [Binary Search](704-binary-search/) | Easy | 2026-10-22 |
 <!-- LEETHUB:TABLE:END -->
