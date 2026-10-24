@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 16, Medium: 8, Hard: 1)
+Solved: 26 (Easy: 16, Medium: 9, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -26,9 +26,10 @@ Solved: 25 (Easy: 16, Medium: 8, Hard: 1)
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-24 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-24 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-24 |
+| 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-24 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-24 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-24 |
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-24 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-24 |
-| 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-24 |
+| 153 | [Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array/) | Medium | 2026-10-24 |
 <!-- LEETHUB:TABLE:END -->
