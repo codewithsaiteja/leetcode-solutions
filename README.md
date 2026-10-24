@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 28 (Easy: 17, Medium: 9, Hard: 2)
+Solved: 29 (Easy: 18, Medium: 9, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -32,6 +32,7 @@ Solved: 28 (Easy: 17, Medium: 9, Hard: 2)
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-24 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-24 |
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-24 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-24 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-24 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-24 |
+| 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-10-24 |
 <!-- LEETHUB:TABLE:END -->
