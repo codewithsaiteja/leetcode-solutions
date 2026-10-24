@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 24 (Easy: 16, Medium: 7, Hard: 1)
+Solved: 25 (Easy: 16, Medium: 8, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -30,4 +30,5 @@ Solved: 24 (Easy: 16, Medium: 7, Hard: 1)
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-24 |
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-24 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-24 |
+| 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-24 |
 <!-- LEETHUB:TABLE:END -->
