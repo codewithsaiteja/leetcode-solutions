@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 30 (Easy: 19, Medium: 9, Hard: 2)
+Solved: 31 (Easy: 19, Medium: 10, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -36,4 +36,5 @@ Solved: 30 (Easy: 19, Medium: 9, Hard: 2)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-25 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-25 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-25 |
+| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-25 |
 <!-- LEETHUB:TABLE:END -->
