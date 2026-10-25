@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 31 (Easy: 19, Medium: 10, Hard: 2)
+Solved: 32 (Easy: 19, Medium: 11, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -27,6 +27,7 @@ Solved: 31 (Easy: 19, Medium: 10, Hard: 2)
 | 852 | [Peak Index in a Mountain Array](852-peak-index-in-a-mountain-array/) | Medium | 2026-10-25 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-25 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-25 |
+| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-25 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-25 |
 | 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-25 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-25 |
@@ -36,5 +37,5 @@ Solved: 31 (Easy: 19, Medium: 10, Hard: 2)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-25 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-25 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-25 |
-| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-25 |
+| 240 | [Search a 2D Matrix II](240-search-a-2d-matrix-ii/) | Medium | 2026-10-25 |
 <!-- LEETHUB:TABLE:END -->
