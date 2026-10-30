@@ -40,11 +40,11 @@ Solved: 41 (Easy: 26, Medium: 13, Hard: 2)
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-30 |
 | 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-30 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-30 |
+| 645 | [Set Mismatch](645-set-mismatch/) | Easy | 2026-10-30 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-30 |
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-30 |
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-10-30 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-30 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-30 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-30 |
-| 645 | [Set Mismatch](645-set-mismatch/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
