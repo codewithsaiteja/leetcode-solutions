@@ -1,12 +1,21 @@
-// 8 ms | 48.5 MB
+// 1 ms | 46.9 MB
 class Solution {
     public int missingNumber(int[] nums) {
+        // Arrays.sort(nums);
         int n = nums.length;
-        Arrays.sort(nums);
-        for(int i=0;i<n;i++){
-            if(nums[i] != i) return i;
+        int i=0;
+        while(i < n){
+            int correctIndex = nums[i];
+            if(nums[i] < n && nums[i] != nums[correctIndex]){
+                int temp = nums[i];
+                nums[i] = nums[correctIndex];
+                nums[correctIndex] = temp;
+            }
+            else i++;
+        }
+        for(int index=0;index<n;index++){
+            if(nums[index] != index) return index;
         }
         return n;
-
     }
 }
