@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 35 (Easy: 22, Medium: 11, Hard: 2)
+Solved: 36 (Easy: 23, Medium: 11, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -41,4 +41,5 @@ Solved: 35 (Easy: 22, Medium: 11, Hard: 2)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-30 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-30 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-30 |
+| 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
