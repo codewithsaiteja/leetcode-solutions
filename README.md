@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 38 (Easy: 25, Medium: 11, Hard: 2)
+Solved: 39 (Easy: 25, Medium: 12, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Solved: 38 (Easy: 25, Medium: 11, Hard: 2)
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-10-30 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/) | Easy | 2026-10-30 |
 | 2521 | [Distinct Prime Factors of Product of Array](2521-distinct-prime-factors-of-product-of-array/) | Medium | 2026-10-30 |
+| 448 | [Find All Numbers Disappeared in an Array](448-find-all-numbers-disappeared-in-an-array/) | Easy | 2026-10-30 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-30 |
 | 1095 | [Find in Mountain Array](1095-find-in-mountain-array/) | Hard | 2026-10-30 |
 | 153 | [Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array/) | Medium | 2026-10-30 |
@@ -43,5 +44,5 @@ Solved: 38 (Easy: 25, Medium: 11, Hard: 2)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-30 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-30 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-30 |
-| 448 | [Find All Numbers Disappeared in an Array](448-find-all-numbers-disappeared-in-an-array/) | Easy | 2026-10-30 |
+| 287 | [Find the Duplicate Number](287-find-the-duplicate-number/) | Medium | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
