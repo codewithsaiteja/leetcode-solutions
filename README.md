@@ -21,6 +21,7 @@ Solved: 36 (Easy: 23, Medium: 11, Hard: 2)
 | 744 | [Find Smallest Letter Greater Than Target](744-find-smallest-letter-greater-than-target/) | Easy | 2026-10-30 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-30 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-10-30 |
+| 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-10-30 |
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-10-30 |
 | 628 | [Maximum Product of Three Numbers](628-maximum-product-of-three-numbers/) | Easy | 2026-10-30 |
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-10-30 |
@@ -41,5 +42,4 @@ Solved: 36 (Easy: 23, Medium: 11, Hard: 2)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-30 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-30 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-30 |
-| 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
