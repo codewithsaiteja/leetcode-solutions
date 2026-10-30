@@ -1,4 +1,4 @@
-// 3 ms | 46.9 MB
+// 3 ms | 46.8 MB
 class Solution {
     public int[] findErrorNums(int[] nums) {
         int n = nums.length;
@@ -19,7 +19,6 @@ class Solution {
 
         for(int j=0;j<n;j++){
             if(nums[j] != j + 1) return new int[] {nums[j],j + 1};
-
         }
         return new int[] {-1,-1};
     }
