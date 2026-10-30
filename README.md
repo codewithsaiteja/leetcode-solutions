@@ -21,6 +21,7 @@ Solved: 39 (Easy: 25, Medium: 12, Hard: 2)
 | 162 | [Find Peak Element](162-find-peak-element/) | Medium | 2026-10-30 |
 | 744 | [Find Smallest Letter Greater Than Target](744-find-smallest-letter-greater-than-target/) | Easy | 2026-10-30 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-30 |
+| 287 | [Find the Duplicate Number](287-find-the-duplicate-number/) | Medium | 2026-10-30 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-10-30 |
 | 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-10-30 |
 | 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-10-30 |
@@ -44,5 +45,4 @@ Solved: 39 (Easy: 25, Medium: 12, Hard: 2)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-30 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-30 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-30 |
-| 287 | [Find the Duplicate Number](287-find-the-duplicate-number/) | Medium | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
