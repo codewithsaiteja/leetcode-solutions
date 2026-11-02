@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 45 (Easy: 29, Medium: 13, Hard: 3)
+Solved: 46 (Easy: 30, Medium: 13, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -29,6 +29,7 @@ Solved: 45 (Easy: 29, Medium: 13, Hard: 3)
 | 412 | [Fizz Buzz](412-fizz-buzz/) | Easy | 2026-11-02 |
 | 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-11-02 |
 | 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-11-02 |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-11-02 |
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-11-02 |
 | 628 | [Maximum Product of Three Numbers](628-maximum-product-of-three-numbers/) | Easy | 2026-11-02 |
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-11-02 |
@@ -50,5 +51,5 @@ Solved: 45 (Easy: 29, Medium: 13, Hard: 3)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-11-02 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-02 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-02 |
-| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-11-02 |
+| 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-02 |
 <!-- LEETHUB:TABLE:END -->
