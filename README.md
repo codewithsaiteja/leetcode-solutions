@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 43 (Easy: 27, Medium: 13, Hard: 3)
+Solved: 44 (Easy: 28, Medium: 13, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Solved: 43 (Easy: 27, Medium: 13, Hard: 3)
 | 287 | [Find the Duplicate Number](287-find-the-duplicate-number/) | Medium | 2026-11-02 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-11-02 |
 | 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-11-02 |
+| 412 | [Fizz Buzz](412-fizz-buzz/) | Easy | 2026-11-02 |
 | 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-11-02 |
 | 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-11-02 |
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-11-02 |
@@ -48,5 +49,5 @@ Solved: 43 (Easy: 27, Medium: 13, Hard: 3)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-11-02 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-02 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-02 |
-| 412 | [Fizz Buzz](412-fizz-buzz/) | Easy | 2026-11-02 |
+| 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 2026-11-02 |
 <!-- LEETHUB:TABLE:END -->
