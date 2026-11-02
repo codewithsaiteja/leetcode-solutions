@@ -2,12 +2,13 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 44 (Easy: 28, Medium: 13, Hard: 3)
+Solved: 45 (Easy: 29, Medium: 13, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-02 |
 | 704 | [Binary Search](704-binary-search/) | Easy | 2026-11-02 |
+| 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 2026-11-02 |
 | 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-11-02 |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-11-02 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](1351-count-negative-numbers-in-a-sorted-matrix/) | Easy | 2026-11-02 |
@@ -49,5 +50,5 @@ Solved: 44 (Easy: 28, Medium: 13, Hard: 3)
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-11-02 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-02 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-02 |
-| 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 2026-11-02 |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-11-02 |
 <!-- LEETHUB:TABLE:END -->
