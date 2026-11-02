@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 46 (Easy: 30, Medium: 13, Hard: 3)
+Solved: 47 (Easy: 31, Medium: 13, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -49,7 +49,8 @@ Solved: 46 (Easy: 30, Medium: 13, Hard: 3)
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-11-02 |
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-11-02 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-11-02 |
+| 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-02 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-02 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-02 |
-| 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-02 |
+| 566 | [Reshape the Matrix](566-reshape-the-matrix/) | Easy | 2026-11-02 |
 <!-- LEETHUB:TABLE:END -->
