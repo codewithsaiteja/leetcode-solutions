@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 48 (Easy: 31, Medium: 14, Hard: 3)
+Solved: 49 (Easy: 32, Medium: 14, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -39,6 +39,7 @@ Solved: 48 (Easy: 31, Medium: 14, Hard: 3)
 | 852 | [Peak Index in a Mountain Array](852-peak-index-in-a-mountain-array/) | Medium | 2026-11-03 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-03 |
 | 566 | [Reshape the Matrix](566-reshape-the-matrix/) | Easy | 2026-11-03 |
+| 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-03 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-11-03 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-11-03 |
 | 240 | [Search a 2D Matrix II](240-search-a-2d-matrix-ii/) | Medium | 2026-11-03 |
@@ -53,5 +54,5 @@ Solved: 48 (Easy: 31, Medium: 14, Hard: 3)
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-03 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-03 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-03 |
-| 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-03 |
+| 9 | [Palindrome Number](9-palindrome-number/) | Easy | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
