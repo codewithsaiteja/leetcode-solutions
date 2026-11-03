@@ -2,10 +2,11 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 50 (Easy: 33, Medium: 14, Hard: 3)
+Solved: 51 (Easy: 34, Medium: 14, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 258 | [Add Digits](258-add-digits/) | Easy | 2026-11-03 |
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-03 |
 | 704 | [Binary Search](704-binary-search/) | Easy | 2026-11-03 |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 2026-11-03 |
@@ -55,5 +56,5 @@ Solved: 50 (Easy: 33, Medium: 14, Hard: 3)
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-03 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-03 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-03 |
-| 258 | [Add Digits](258-add-digits/) | Easy | 2026-11-03 |
+| 709 | [To Lower Case](709-to-lower-case/) | Easy | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
