@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 51 (Easy: 34, Medium: 14, Hard: 3)
+Solved: 52 (Easy: 35, Medium: 14, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -53,8 +53,9 @@ Solved: 51 (Easy: 34, Medium: 14, Hard: 3)
 | 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-11-03 |
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-11-03 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-11-03 |
+| 709 | [To Lower Case](709-to-lower-case/) | Easy | 2026-11-03 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-03 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-03 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-03 |
-| 709 | [To Lower Case](709-to-lower-case/) | Easy | 2026-11-03 |
+| 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
