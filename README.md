@@ -36,6 +36,7 @@ Solved: 49 (Easy: 32, Medium: 14, Hard: 3)
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/) | Easy | 2026-11-03 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-11-03 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-03 |
+| 9 | [Palindrome Number](9-palindrome-number/) | Easy | 2026-11-03 |
 | 852 | [Peak Index in a Mountain Array](852-peak-index-in-a-mountain-array/) | Medium | 2026-11-03 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-03 |
 | 566 | [Reshape the Matrix](566-reshape-the-matrix/) | Easy | 2026-11-03 |
@@ -54,5 +55,4 @@ Solved: 49 (Easy: 32, Medium: 14, Hard: 3)
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-03 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-03 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-03 |
-| 9 | [Palindrome Number](9-palindrome-number/) | Easy | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
