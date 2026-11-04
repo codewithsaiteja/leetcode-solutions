@@ -43,6 +43,7 @@ Solved: 53 (Easy: 36, Medium: 14, Hard: 3)
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-04 |
 | 566 | [Reshape the Matrix](566-reshape-the-matrix/) | Easy | 2026-11-04 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-04 |
+| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-11-04 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-11-04 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-11-04 |
 | 240 | [Search a 2D Matrix II](240-search-a-2d-matrix-ii/) | Medium | 2026-11-04 |
@@ -58,5 +59,4 @@ Solved: 53 (Easy: 36, Medium: 14, Hard: 3)
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-04 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-04 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-04 |
-| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-11-04 |
 <!-- LEETHUB:TABLE:END -->
