@@ -1,4 +1,4 @@
-// 4 ms | 47.6 MB
+// 1 ms | 47.9 MB
 class Solution {
     public void reverseString(char[] s) {
         int l = 0;
@@ -10,6 +10,6 @@ class Solution {
             l++;
             r--;
         }
-        System.out.println(new String(s));
+      
     }
 }
