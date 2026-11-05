@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 55 (Easy: 38, Medium: 14, Hard: 3)
+Solved: 56 (Easy: 39, Medium: 14, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -44,6 +44,7 @@ Solved: 55 (Easy: 38, Medium: 14, Hard: 3)
 | 566 | [Reshape the Matrix](566-reshape-the-matrix/) | Easy | 2026-11-05 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-05 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-11-05 |
+| 557 | [Reverse Words in a String III](557-reverse-words-in-a-string-iii/) | Easy | 2026-11-05 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-11-05 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-11-05 |
 | 240 | [Search a 2D Matrix II](240-search-a-2d-matrix-ii/) | Medium | 2026-11-05 |
@@ -60,5 +61,5 @@ Solved: 55 (Easy: 38, Medium: 14, Hard: 3)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-05 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-05 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-05 |
-| 557 | [Reverse Words in a String III](557-reverse-words-in-a-string-iii/) | Easy | 2026-11-05 |
+| 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-05 |
 <!-- LEETHUB:TABLE:END -->
