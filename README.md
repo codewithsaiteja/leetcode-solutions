@@ -28,6 +28,7 @@ Solved: 57 (Easy: 40, Medium: 14, Hard: 3)
 | 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-11-05 |
 | 278 | [First Bad Version](278-first-bad-version/) | Easy | 2026-11-05 |
 | 41 | [First Missing Positive](41-first-missing-positive/) | Hard | 2026-11-05 |
+| 387 | [First Unique Character in a String](387-first-unique-character-in-a-string/) | Easy | 2026-11-05 |
 | 412 | [Fizz Buzz](412-fizz-buzz/) | Easy | 2026-11-05 |
 | 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-11-05 |
 | 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-11-05 |
@@ -62,5 +63,4 @@ Solved: 57 (Easy: 40, Medium: 14, Hard: 3)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-05 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-05 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-05 |
-| 387 | [First Unique Character in a String](387-first-unique-character-in-a-string/) | Easy | 2026-11-05 |
 <!-- LEETHUB:TABLE:END -->
