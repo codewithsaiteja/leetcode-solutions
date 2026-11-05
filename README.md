@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 54 (Easy: 37, Medium: 14, Hard: 3)
+Solved: 55 (Easy: 38, Medium: 14, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -58,6 +58,7 @@ Solved: 54 (Easy: 37, Medium: 14, Hard: 3)
 | 709 | [To Lower Case](709-to-lower-case/) | Easy | 2026-11-05 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-11-05 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-05 |
-| 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-05 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-05 |
+| 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-05 |
+| 557 | [Reverse Words in a String III](557-reverse-words-in-a-string-iii/) | Easy | 2026-11-05 |
 <!-- LEETHUB:TABLE:END -->
