@@ -45,6 +45,7 @@ Solved: 58 (Easy: 40, Medium: 15, Hard: 3)
 | 566 | [Reshape the Matrix](566-reshape-the-matrix/) | Easy | 2026-11-11 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-11 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-11-11 |
+| 151 | [Reverse Words in a String](151-reverse-words-in-a-string/) | Medium | 2026-11-11 |
 | 557 | [Reverse Words in a String III](557-reverse-words-in-a-string-iii/) | Easy | 2026-11-11 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-11-11 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-11-11 |
@@ -63,5 +64,4 @@ Solved: 58 (Easy: 40, Medium: 15, Hard: 3)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-11 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-11 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-11 |
-| 151 | [Reverse Words in a String](151-reverse-words-in-a-string/) | Medium | 2026-11-11 |
 <!-- LEETHUB:TABLE:END -->
