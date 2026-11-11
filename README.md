@@ -43,6 +43,7 @@ Solved: 63 (Easy: 44, Medium: 16, Hard: 3)
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-11 |
 | 9 | [Palindrome Number](9-palindrome-number/) | Easy | 2026-11-11 |
 | 852 | [Peak Index in a Mountain Array](852-peak-index-in-a-mountain-array/) | Medium | 2026-11-11 |
+| 326 | [Power of Three](326-power-of-three/) | Easy | 2026-11-11 |
 | 231 | [Power of Two](231-power-of-two/) | Easy | 2026-11-11 |
 | 50 | [Pow(x, n)](50-powx-n/) | Medium | 2026-11-11 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-11 |
@@ -68,5 +69,4 @@ Solved: 63 (Easy: 44, Medium: 16, Hard: 3)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-11 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-11 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-11 |
-| 326 | [Power of Three](326-power-of-three/) | Easy | 2026-11-11 |
 <!-- LEETHUB:TABLE:END -->
