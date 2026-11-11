@@ -2,13 +2,14 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 62 (Easy: 43, Medium: 16, Hard: 3)
+Solved: 63 (Easy: 44, Medium: 16, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 258 | [Add Digits](258-add-digits/) | Easy | 2026-11-11 |
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-11 |
 | 704 | [Binary Search](704-binary-search/) | Easy | 2026-11-11 |
+| 70 | [Climbing Stairs](70-climbing-stairs/) | Easy | 2026-11-11 |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 2026-11-11 |
 | 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-11-11 |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-11-11 |
@@ -67,5 +68,5 @@ Solved: 62 (Easy: 43, Medium: 16, Hard: 3)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-11 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-11 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-11 |
-| 70 | [Climbing Stairs](70-climbing-stairs/) | Easy | 2026-11-11 |
+| 326 | [Power of Three](326-power-of-three/) | Easy | 2026-11-11 |
 <!-- LEETHUB:TABLE:END -->
