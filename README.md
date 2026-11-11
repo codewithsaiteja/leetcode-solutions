@@ -2,7 +2,7 @@
 My solutions to LeetCode problems, focused on Data Structures &amp; Algorithms, problem-solving, and efficient coding. Includes solutions across different difficulty levels and programming languages.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 59 (Easy: 41, Medium: 15, Hard: 3)
+Solved: 60 (Easy: 41, Medium: 16, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -65,4 +65,5 @@ Solved: 59 (Easy: 41, Medium: 15, Hard: 3)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-11 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-11 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-11 |
+| 50 | [Pow(x, n)](50-powx-n/) | Medium | 2026-11-11 |
 <!-- LEETHUB:TABLE:END -->
