@@ -34,6 +34,7 @@ Solved: 65 (Easy: 46, Medium: 16, Hard: 3)
 | 412 | [Fizz Buzz](412-fizz-buzz/) | Easy | 2026-11-12 |
 | 1051 | [Height Checker](1051-height-checker/) | Easy | 2026-11-12 |
 | 976 | [Largest Perimeter Triangle](976-largest-perimeter-triangle/) | Easy | 2026-11-12 |
+| 58 | [Length of Last Word](58-length-of-last-word/) | Easy | 2026-11-12 |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-11-12 |
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-11-12 |
 | 628 | [Maximum Product of Three Numbers](628-maximum-product-of-three-numbers/) | Easy | 2026-11-12 |
@@ -70,5 +71,4 @@ Solved: 65 (Easy: 46, Medium: 16, Hard: 3)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-12 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-12 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-11-12 |
-| 58 | [Length of Last Word](58-length-of-last-word/) | Easy | 2026-11-12 |
 <!-- LEETHUB:TABLE:END -->
